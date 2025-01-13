@@ -169,3 +169,20 @@ Testing is critical for delivering a reliable API. Unit tests, integration tests
 ## Feel free to describe any additional tools or libraries you have used or can be used during the development.
 
 I used Postman to test the API endpoints including stripe integration to ensure that there proper payments as I was using the test environment on stripe which I managed to create successful transactions on it and CSS Tailwind for styling the frontend on some of the pages. However I would like to point out two things that I would have been able to do if I had no time constraints, which is to create the transactions page and to also fix the receipts and invoice page for users which is only returning the user's receipt and invoice data in a json format instead of a page. 
+
+## Images
+<img width="1431" alt="Screenshot 2025-01-13 at 7 22 28 PM" src="https://github.com/user-attachments/assets/1a1c487d-85b1-40cd-ad2d-765bef3dc2d7" />
+
+<img width="1430" alt="Screenshot 2025-01-13 at 7 22 31 PM" src="https://github.com/user-attachments/assets/71cd28cb-0d17-4b9a-a49f-f038d7d050ec" />
+
+<img width="1437" alt="Screenshot 2025-01-13 at 7 20 11 PM" src="https://github.com/user-attachments/assets/8ef91903-5d38-4e21-8765-1dec52cd9abd" />
+
+<img width="1434" alt="Screenshot 2025-01-13 at 7 20 25 PM" src="https://github.com/user-attachments/assets/37498e4f-7d71-48ae-ad85-8ff085d79501" />
+
+<img width="1426" alt="Screenshot 2025-01-13 at 7 24 39 PM" src="https://github.com/user-attachments/assets/1e5ae7e3-426d-47fb-a496-e5378f06852c" />
+
+<img width="1433" alt="Screenshot 2025-01-13 at 7 25 03 PM" src="https://github.com/user-attachments/assets/f31cc682-67ec-43ab-9b3a-6e0900871429" />
+
+<img width="1433" alt="Screenshot 2025-01-13 at 7 25 24 PM" src="https://github.com/user-attachments/assets/00ecd83a-db8f-407e-8df9-477676314924" />
+
+<img width="1435" alt="Screenshot 2025-01-13 at 7 25 51 PM" src="https://github.com/user-attachments/assets/ffd78168-0bf6-4634-a2fb-6f2d9163e663" />
